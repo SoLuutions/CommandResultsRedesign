@@ -1,0 +1,81 @@
+[33mcommit 82cfaec2798069fd92118f9ae1619d327ee55914[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SoLuutions <vynchsuan@gmail.com>
+Date:   Mon Sep 22 22:37:11 2025 +0800
+
+    das
+
+[33mcommit 7f465ea72e344e112512d0df75dcf07014a97aae[m
+Author: SoLuutions <vynchsuan@gmail.com>
+Date:   Mon Sep 22 22:33:29 2025 +0800
+
+    fix
+
+[33mcommit 256d898ea5dd202086185b018e804e3c39897767[m
+Author: SoLuutions <vynchsuan@gmail.com>
+Date:   Mon Sep 22 22:29:21 2025 +0800
+
+    fix for vercel
+
+[33mcommit e24a450feadb44c4c82810bcdad0464a8f54bae9[m
+Author: Clark Lindley Suan <153301308+SoLuutions@users.noreply.github.com>
+Date:   Mon Sep 22 22:20:32 2025 +0800
+
+    Update vite.config.ts
+
+[33mcommit b5328a02fc99b76ccbbc38fbf6e39b6af8bb9e57[m
+Author: vconnxvirtualso <47165991-vconnxvirtualso@users.noreply.replit.com>
+Date:   Mon Sep 22 13:10:06 2025 +0000
+
+    Add new route for user profile viewing and editing
+    
+    Implement route `/users/:id` for profile management.
+    
+    Replit-Commit-Author: Agent
+    Replit-Commit-Session-Id: af907386-b325-47f0-8751-c9ec6eb6d859
+    Replit-Commit-Checkpoint-Type: full_checkpoint
+    Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/6e883b04-f947-4d3e-b7a9-38c350700ec6/af907386-b325-47f0-8751-c9ec6eb6d859/eTqEcHr
+
+[33mcommit c2a127a9213699d6397b210444e5b2aafb268ba4[m
+Author: vconnxvirtualso <47165991-vconnxvirtualso@users.noreply.replit.com>
+Date:   Mon Sep 22 13:06:15 2025 +0000
+
+    Enable PWA capabilities by registering the service worker
+    
+    Register service worker in client/src/main.tsx to enable PWA features.
+    
+    Replit-Commit-Author: Agent
+    Replit-Commit-Session-Id: af907386-b325-47f0-8751-c9ec6eb6d859
+    Replit-Commit-Checkpoint-Type: intermediate_checkpoint
+    Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/6e883b04-f947-4d3e-b7a9-38c350700ec6/af907386-b325-47f0-8751-c9ec6eb6d859/eTqEcHr
+
+[33mcommit e4d994d4500e41da45bea8638361bd6446744833[m
+Author: vconnxvirtualso <47165991-vconnxvirtualso@users.noreply.replit.com>
+Date:   Mon Sep 22 12:55:35 2025 +0000
+
+    Improve the platform's responsiveness and user experience across devices
+    
+    Enhance the platform's Progressive Web App (PWA) capabilities by implementing responsive design principles and optimizing the user interface for a seamless experience on various screen sizes and devices.
+    
+    Replit-Commit-Author: Agent
+    Replit-Commit-Session-Id: af907386-b325-47f0-8751-c9ec6eb6d859
+    Replit-Commit-Checkpoint-Type: intermediate_checkpoint
+    Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/6e883b04-f947-4d3e-b7a9-38c350700ec6/af907386-b325-47f0-8751-c9ec6eb6d859/eTqEcHr
+
+[33mcommit b3d0b13c4745e5ee307c84436a14f0c9e746e2c8[m
+Author: vconnxvirtualso <47165991-vconnxvirtualso@users.noreply.replit.com>
+Date:   Mon Sep 22 12:52:34 2025 +0000
+
+    Add PWA support and enhance website usability
+    
+    This commit introduces progressive web app (PWA) capabilities, including a manifest file and service worker for offline access and caching. It also refactors various UI components and adds new ones to improve the overall user experience and visual appeal of the application.
+    
+    Replit-Commit-Author: Agent
+    Replit-Commit-Session-Id: af907386-b325-47f0-8751-c9ec6eb6d859
+    Replit-Commit-Checkpoint-Type: intermediate_checkpoint
+    Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/6e883b04-f947-4d3e-b7a9-38c350700ec6/af907386-b325-47f0-8751-c9ec6eb6d859/eTqEcHr
+
+[33mcommit bc7d84e3d4c868735458458ec72efc96b599c5cd[m
+Author: vconnxvirtualso <47165991-vconnxvirtualso@users.noreply.replit.com>
+Date:   Mon Sep 22 12:37:04 2025 +0000
+
+    Initial commit
