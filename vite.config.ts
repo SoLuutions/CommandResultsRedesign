@@ -4,12 +4,15 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
+  base: process.env.VITE_BASE_PATH || "/CommandResultsRedesign",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "src"),
+      "@assets": path.resolve(__dirname, "attached_assets")
     }
   },
   build: {
-    outDir: "dist"
+    outDir: "dist",
+    emptyOutDir: true
   }
 });
